@@ -21,7 +21,7 @@ SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJ
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # Current application version
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "1.0.1"
 
 def check_for_updates():
     """Check if updates are available for the application"""
