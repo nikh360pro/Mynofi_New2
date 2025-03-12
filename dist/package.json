@@ -1,0 +1,8 @@
+{
+  "name": "mynofi-website",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Skip build as files are pre-built'"
+  }
+}
